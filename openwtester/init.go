@@ -1,7 +1,7 @@
 package openwtester
 
 import (
-	"github.com/assetsadapterstore/dashcash-adapter/dashcash"
+	"github.com/blocktree/dashcash-adapter/dashcash"
 	"github.com/blocktree/openwallet/log"
 	"github.com/blocktree/openwallet/openw"
 )

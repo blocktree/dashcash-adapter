@@ -18,7 +18,7 @@ package dashcash
 import (
 	"fmt"
 	"github.com/blocktree/bitcoin-adapter/bitcoin"
-	"github.com/assetsadapterstore/dashcash-adapter/dashcash_addrdec"
+	"github.com/blocktree/dashcash-adapter/dashcash_addrdec"
 	"github.com/blocktree/go-owcdrivers/addressEncoder"
 	"github.com/blocktree/go-owcrypt"
 )

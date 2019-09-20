@@ -16,7 +16,7 @@
 package dashcash
 
 import (
-	"github.com/assetsadapterstore/dashcash-adapter/dscTransaction"
+	"github.com/blocktree/dashcash-adapter/dscTransaction"
 	"github.com/blocktree/go-owcrypt"
 )
 

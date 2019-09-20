@@ -1,4 +1,4 @@
-module github.com/assetsadapterstore/dashcash-adapter
+module github.com/blocktree/dashcash-adapter
 
 go 1.12
 
